@@ -1,0 +1,6 @@
+{
+  "name": "ProjectJury - AI Tribunal Bench",
+  "description": "An academic AI tribunal bench for evaluating engineering theses and capstone propositions with Google Search grounded novelty verification, algorithmic feasibility analysis, and societal impact assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
